@@ -1,0 +1,7 @@
+.navbar {
+  -webkit-app-region: drag;
+  background: lavender;
+}
+.active {
+  color: yellow;
+}
